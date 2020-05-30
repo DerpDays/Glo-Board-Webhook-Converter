@@ -5,6 +5,8 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/Naereen/Glo-Board-Webhook-Converter/pull/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/Naereen/Glo-Board-Webhook-Converter/pull/)
 
+## Get support: https://discord.gg/ddVZTTG
+
 ## About
 
 This webserver accepts webhooks from Git Kraken's Glo Boards and converts their payload into a valid discord webhook and then sends it to the desired discord webhook.
