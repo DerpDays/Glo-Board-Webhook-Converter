@@ -392,7 +392,7 @@ app.post("/", async (req, res) => {
                 chalk.red(
                     figlet.textSync("WARNING", {
                         horizontalLayout: "full",
-                        font: "big"
+                        font: "Big"
                     })
                 ),
                 `\nInvalid data was recieved, this could mean that your secret was exposed.`
@@ -418,7 +418,7 @@ app.listen(port, () => {
         chalk.yellow(
             figlet.textSync("STARTED", {
                 horizontalLayout: "full",
-                font: "big"
+                font: "Big"
             })
         ),
         `\nListening for incoming requests on port ${chalk.green(port)}.`,
