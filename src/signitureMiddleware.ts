@@ -18,7 +18,6 @@ const signitureMiddleware = async (req, res, next) => {
             config.webhookSecret.length <= 0
         ) { next() } else {
             const signature = await createSignature(JSON.stringify(req.body));
-            console.log(signature)
             if (signature !== req.headers['x-gk-signature']) {
                 return await res
                 .status(403)
