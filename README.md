@@ -1,9 +1,9 @@
 # Git Kraken Glo Board Discord Webhook Server
 
-[![GitHub issues](https://img.shields.io/github/issues/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/Naereen/Glo-Board-Webhook-Converter/issues/)
-[![GitHub closed-issues](https://img.shields.io/github/issues-closed/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/Naereen/Glo-Board-Webhook-Converter/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/Naereen/Glo-Board-Webhook-Converter/pull/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/Naereen/Glo-Board-Webhook-Converter/pull/)
+[![GitHub issues](https://img.shields.io/github/issues/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/DerpDays/Glo-Board-Webhook-Converter/issues/)
+[![GitHub closed-issues](https://img.shields.io/github/issues-closed/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/DerpDays/Glo-Board-Webhook-Converter/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/DerpDays/Glo-Board-Webhook-Converter/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/DerpDays/Glo-Board-Webhook-Converter.svg?style=for-the-badge)](https://GitHub.com/DerpDays/Glo-Board-Webhook-Converter/pull/)
 
 ## Get support: https://discord.gg/ddVZTTG
 
